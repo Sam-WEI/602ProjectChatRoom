@@ -70,7 +70,8 @@ public class Client {
 	
 	private final int THEME_NUM = THEME_COLOR.length;
 	
-	private String SERVER_IP = "afsaccess1.njit.edu";
+//	private String SERVER_IP = "afsaccess1.njit.edu";
+	private String SERVER_IP = "localhost";
 	private int SERVER_PORT = Server.DEFAULT_PORT;
 	
 	private ClientThread clientThread;
