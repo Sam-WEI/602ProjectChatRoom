@@ -1,9 +1,9 @@
 # ChatRoom
 
 - This a chatroom implemented in Java. There are server and client. 
-  -- Server settings
+  - Server settings
 ![server settings](/screenshots/settings.png?raw=true)
--- Client login
+  - Client login
 ![login](/screenshots/login.png?raw=true)
 
 - Server is in charge of user registry and relaying msg to clients.
